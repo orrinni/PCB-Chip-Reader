@@ -11,3 +11,7 @@ allow you to quickly identify what chips your PCBs contain.
 Special thanks to the below blog post for its advice on the YOLOv3 model.
 
 https://blog.insightdatascience.com/how-to-train-your-own-yolov3-detector-from-scratch-224d10e55de2
+
+
+Note: some of the model info files were too big to upload, please email orrin.ni@gmail.com or
+orrin.ni@berkeley.edu for more information.
